@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap");
+body {
+  background-color: rgb(5 4 23);
+}
+/********************IMAGES DIV*********************/
+
+.imagesDiv {
+  /* Prevent vertical gaps */
+  line-height: 0;
+
+  -webkit-column-count: 3;
+  -webkit-column-gap: 0px;
+  -moz-column-count: 5;
+  -moz-column-gap: 0px;
+  column-count: 3;
+  column-gap: 0px;
+  width: min-content;
+}
+.imagesDiv-wrapper {
+  background-color: #ffffff;
+}
+.imagesDiv {
+  margin: auto;
+  padding-top: 1.7%;
+}
+
+/********************MODAL*********************/
+
+.photo {
+  /* Just in case there are inline attributes */
+  /* width: 100% !important;*/
+  height: auto !important;
+  margin: 4px;
+}
+.modal-photo {
+  width: 65vh;
+  height: 80vh;
+}
+.user-photo {
+  border-radius: 40px;
+}
+
+.user-names {
+  margin-left: 0.7rem;
+}
+.userinfo-row {
+  display: flex;
+  /* justify-content: flex-start; */
+  align-items: center;
+  margin-top: 3%;
+}
+.MuiButton-label {
+  color: #2a2b8d;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+}
+.download-btn {
+  margin-left: auto;
+}
+
+.firstName {
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1.3rem;
+  line-height: 40, 85px;
+}
+.userName {
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1rem;
+  line-height: 27, 24px;
+  font-weight: bold;
+  color: #2a2b8d;
+}
+
+.loc-wrapper {
+  font-family: Open Sans;
+  font-size: 0.9em;
+  line-height: 19px;
+
+  color: #050417;
+  padding: 4% 0;
+  display: flex;
+}
+.loc-wrapper img {
+  margin-right: 1%;
+}
+.modal-error {
+  width: 95%;
+  height: 6vh;
+  background-color: #ffeded;
+  border-radius: 4px;
+  margin: auto;
+  font-family: "Open Sans";
+  font-style: "normal";
+  font-weight: 600;
+  font-size: 14px;
+}
+.modal-error p {
+  color: #ff4a4a;
+  text-align: left;
+  margin: 10px 20px;
+  display: block;
+  padding: 3% 2%;
+}
+a {
+  text-decoration: none;
+}
+
+/**/
+
+.map-wrapper {
+  margin-top: 5%;
+}
+
+.error-wrapper {
+  height: 6vh;
+  width: 89em;
+  background-color: #ffeded;
+  border-radius: 4px;
+  margin: auto;
+  font-family: "Open Sans";
+  font-style: "normal";
+  font-weight: 600;
+  font-size: 14px;
+}
+.error-wrapper p {
+  color: #ff4a4a;
+  text-align: left;
+  margin: 10px 20px;
+  display: block;
+  padding: 1% 2%;
+}
+li {
+  list-style: none;
+}

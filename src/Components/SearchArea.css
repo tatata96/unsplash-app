@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap");
+
+button {
+  background-color: #2a2b8d;
+}
+
+.logoImg {
+  position: absolute;
+  margin-top: 0.9%;
+  margin-left: 0.7%;
+  z-index: 2;
+}
+.logoBg {
+  position: relative;
+  display: inline;
+  z-index: 1;
+}
+.MuiButton-root {
+  /*border-radius: 18px;*/
+}
+.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-formControl {
+  height: 350px;
+}
+
+.dropDownInput-wrapper {
+  margin-left: 1.875rem;
+}
+.logo {
+  /*margin: 2.5rem 25rem 0 0;*/
+}
+.logoText {
+  margin-top: 3%;
+}

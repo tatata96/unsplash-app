@@ -1,0 +1,42 @@
+.row {
+  padding: 3em 0px 5.8em 0px;
+}
+.pagination {
+  display: flex;
+  margin: auto;
+  width: 17%;
+}
+
+.pagination a {
+  color: rgb(42 43 141);
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+li {
+  margin-right: 0.5rem;
+}
+.pagination li.active {
+  background-color: rgb(42 43 141);
+  color: white;
+  border-radius: 5px;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+  border-radius: 5px;
+  color: #fff;
+}
+.pagination li.active a {
+  color: #fff;
+}
+.row {
+  margin: auto;
+  width: 50%;
+}
+.invisible {
+  display: none;
+}
