@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/unsplash-app/static/css/main.d50fab97.chunk.css",
+    "main.js": "/unsplash-app/static/js/main.9aa2db18.chunk.js",
+    "main.js.map": "/unsplash-app/static/js/main.9aa2db18.chunk.js.map",
+    "runtime-main.js": "/unsplash-app/static/js/runtime-main.73a8ba59.js",
+    "runtime-main.js.map": "/unsplash-app/static/js/runtime-main.73a8ba59.js.map",
+    "static/js/2.f1c79030.chunk.js": "/unsplash-app/static/js/2.f1c79030.chunk.js",
+    "static/js/2.f1c79030.chunk.js.map": "/unsplash-app/static/js/2.f1c79030.chunk.js.map",
+    "static/js/3.74b1455e.chunk.js": "/unsplash-app/static/js/3.74b1455e.chunk.js",
+    "static/js/3.74b1455e.chunk.js.map": "/unsplash-app/static/js/3.74b1455e.chunk.js.map",
+    "index.html": "/unsplash-app/index.html",
+    "static/css/main.d50fab97.chunk.css.map": "/unsplash-app/static/css/main.d50fab97.chunk.css.map",
+    "static/js/2.f1c79030.chunk.js.LICENSE.txt": "/unsplash-app/static/js/2.f1c79030.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73a8ba59.js",
+    "static/js/2.f1c79030.chunk.js",
+    "static/css/main.d50fab97.chunk.css",
+    "static/js/main.9aa2db18.chunk.js"
+  ]
+}
