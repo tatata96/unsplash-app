@@ -34,5 +34,4 @@ This string location is passed down to Map Component and a get request to "https
 langitude and latitude values of the location. After fetching lat and long values, Map's state center is set(using lng and lat values), map is created and  marker is added .
 
 
-**Deployed in link: </br>** https://tatata96.github.io/typescript-react-unsplash/#/p-search 
 
