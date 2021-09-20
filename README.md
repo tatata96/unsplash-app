@@ -33,3 +33,6 @@ Modal in Home is a Material-UI component. Modal displays  image and user informa
 This string location is passed down to Map Component and a get request to "https://maps.googleapis.com/maps/api/geocode"  is performed in order to retrieve
 langitude and latitude values of the location. After fetching lat and long values, Map's state center is set(using lng and lat values), map is created and  marker is added .
 
+
+**Deployed in link: </br>** https://tatata96.github.io/typescript-react-unsplash/#/p-search 
+
